@@ -1,0 +1,57 @@
+body {
+    background-color: #000000; 
+}
+
+hr {
+    border-color: #EEEEEE;
+    border-width: 3px;
+    height: 2px;
+    border-style: none;
+    border-top-style: dashed;
+    width: 95%;
+}
+
+h1 {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+h3 {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+ol {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+label {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+p {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+ul {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+td {
+    font-family: 'Franklin Gothic Medium';
+    color: #EFB7B7;
+}
+
+th {
+    font-family: 'Franklin Gothic Medium';
+    color: #BD4B4B;
+}
+
+a {
+    font-family: 'Franklin Gothic Medium';
+    color: #BD4B4B;
+}
