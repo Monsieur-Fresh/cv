@@ -1,0 +1,38 @@
+img {
+    background-color: aqua;
+    width: 100%;
+}
+body {
+    background-color: #444444;
+}
+
+hr {
+    border-color: yellowgreen;
+    border-width: 5px;
+    height: 0px;
+    border-style: none;
+    border-top-style: dashed;
+    width: 100%;    
+}
+h1 {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h2 {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+}
+h3 {
+    color: salmon;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+p {
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+} 
+
+td {
+    color: crimson;
+    font-family: Arial, Helvetica, sans-serif;
+} 
