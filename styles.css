@@ -55,3 +55,7 @@ a {
     font-family: 'Franklin Gothic Medium';
     color: #BD4B4B;
 }
+
+.rainbow {
+  background-image: linear-gradient(to left, violet, indigo, blue, green, yellow, orange, red);
+}
